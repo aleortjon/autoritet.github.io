@@ -1,0 +1,2 @@
+# autoritet.github.io
+autoritet
